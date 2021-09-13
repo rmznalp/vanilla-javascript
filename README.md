@@ -1,2 +1,2 @@
 # vanilla-javascript
- Vanillah Javascript Projects
+ Vanilla Javascript Projects
